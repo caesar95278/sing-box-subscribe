@@ -1,6 +1,6 @@
 {
   "log": {
-    "level": "info",
+    "level": "panic",
     "timestamp": true
   },
   "experimental": {
@@ -22,8 +22,8 @@
     "servers": [
       {
         "tag": "google",
-        "type": "tls",
-        "server": "8.8.8.8",
+        "type": "https",
+        "server": "hoec35iu7h.cloudflare-gateway.com",
         "detour": "Proxy"
       },
       {
