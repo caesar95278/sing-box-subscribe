@@ -23,7 +23,7 @@
       {
         "tag": "google",
         "type": "https",
-        "server": "hoec35iu7h.cloudflare-gateway.com",
+        "server": "8.8.8.8",
         "detour": "Proxy"
       },
       {
